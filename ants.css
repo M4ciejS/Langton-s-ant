@@ -1,0 +1,29 @@
+div.canva{
+display: block;
+width: 800px;
+height: 600px;
+margin-left: auto;
+margin-right: auto;
+//background: url("snake.png");
+}
+div.title{
+margin-left: auto;
+margin-right: auto;
+height: 100px;
+width: 800px;
+font: 100px monospace;
+color: #000000;
+text-align: center;
+}
+div.highscore{
+margin-left: auto;
+margin-right: auto;
+height: 50px;
+width: 800px;
+font: 20px monospace;
+text-align: center;
+}
+canvas{
+margin-top: 90px;
+margin-left: 100px;
+}
